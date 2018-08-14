@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bolsa</string>
+    <string name="txt_acao">Ação</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="txt_lista">Lista</string>
+    <string name="btn_Novo">Novo</string>
+</resources>
